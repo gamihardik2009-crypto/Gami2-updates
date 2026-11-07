@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.gami.sms2",
+  "versionCode": 1000201,
+  "versionName": "1.7.0+2.1",
+  "minSdk": 26,
+  "apkUrl": "https://raw.githubusercontent.com/gamihardik2009-crypto/Gami2-updates/main/apks/Gami2-1000201-5d97d6f1e43243c254e50d32fb61b8e74630a72f147e697495e53985e34ae22c.apk",
+  "sha256": "5d97d6f1e43243c254e50d32fb61b8e74630a72f147e697495e53985e34ae22c",
+  "sizeBytes": 1660256,
+  "publishedAt": "2026-11-07T04:27:26.192947+00:00"
+}
